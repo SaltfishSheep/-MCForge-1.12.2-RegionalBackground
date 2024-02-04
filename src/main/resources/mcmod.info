@@ -1,0 +1,16 @@
+[
+{
+  "modid": "regionalbackground",
+  "name": "RegionalBackground",
+  "description": "A mod use for Regional Background.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Saltfish_Sheep"],
+  "credits": "Just a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["SheepLib(From 1.0)"]
+}
+]
